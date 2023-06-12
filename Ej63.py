@@ -8,5 +8,5 @@ print("Lista :", sueldos)
 
 promedio = sum(sueldos) / len(sueldos)
 
-print("Promedio :", promedio)
+print("Promedio : ", promedio)
 
